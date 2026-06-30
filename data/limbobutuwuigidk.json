@@ -1,0 +1,36 @@
+{
+    "id": 110705712,
+    "name": "limbo but uwu ig idk",
+    "author": "akunakunn",
+    "creators": ["akunakunn"],
+    "verifier": "ViperVenom95",
+    "verification": "https://youtu.be/3B36N-qfOD8?si=-X-r7iRlFGdS_3l-",
+    "percentToQualify": "55",
+    "password": "Free To Copy",
+    "records": [
+		{
+			"user": "Insurgentes54",
+			"link": "https://youtu.be/JzQJ1RzRg78?si=2kvV9LdREfclEHQh",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "ruxwe",
+			"link": "https://youtu.be/LoNhX-y_of8",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "AR",
+			"link": "https://youtu.be/_mRgAWpPV6Y?si=okO8h2CGyL9Dblx0",
+			"hz": "144",
+			"percent": 100
+		},
+		{
+			"user": "freedom",
+			"link": "https://youtu.be/CToVa0Mp-UA?si=B6JfmXOzQf-e3yy6",
+			"hz": "360",
+			"percent": 100
+		}
+    ]
+}
