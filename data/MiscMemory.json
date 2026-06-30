@@ -8,5 +8,23 @@
     "percentToQualify": "60",
     "password": "Free To Copy",
     "records": [
+		{
+			"user": "Insurgentes54",
+			"link": "https://youtu.be/JzQJ1RzRg78?si=2kvV9LdREfclEHQh",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Enfur",
+			"link": "https://youtu.be/owgEjEDLFdQ?si=Ygb6ectzvPd0JRl8",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Yonep",
+			"link": "https://youtu.be/uGzWSgAIF9c?si=asR-DCxs8HN_CJxi",
+			"hz": "60",
+			"percent": 100
+		}
     ]
 }
