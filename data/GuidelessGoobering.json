@@ -8,5 +8,29 @@
     "percentToQualify": 60,
     "password": "Copyable",
     "records": [
+		{
+			"user": "m",
+			"link": "https://youtu.be/sLZTgUTXTFo?si=DLkreSPNG-rw1iLN",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Insurgentes54",
+			"link": "https://youtu.be/XDFJm2bo3po?si=8W9pRodh-U7v3-Gj",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Yonep",
+			"link": "https://youtu.be/uGzWSgAIF9c?si=asR-DCxs8HN_CJxi",
+			"hz": "60",
+			"percent": 100
+		},
+		{
+			"user": "LaPochi99",
+			"link": "https://youtu.be/t_WrjkgJ6xE?si=W6S2Dni7jV6TM3jN",
+			"hz": "CBF",
+			"percent": 100
+		}
     ]
 }
