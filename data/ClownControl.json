@@ -1,0 +1,30 @@
+{
+    "id": 17711004,
+    "name": "Clown Control",
+    "author": "ThePurgatory",
+    "creators": ["Phantom7ks", "more..."],
+    "verifier": "KrmaL",
+    "verification": "https://youtu.be/nHdEUIPpS2k?si=ecEMjHdjcdN4v4N5",
+    "percentToQualify": 77,
+    "password": "Uncopyable",
+    "records": [
+		{
+			"user": "Insurgentes54",
+			"link": "https://youtu.be/YMoJiw5Bipo?si=rd5LTxi1-dxkKQmM",
+			"hz": "CBF",
+			"percent": 100
+		},
+		{
+			"user": "Zeronium",
+			"link": "https://youtu.be/773aN-lTWig?si=zj4DQXw503S6zcKW",
+			"hz": "144",
+			"percent": 100
+		},
+		{
+			"user": "Dorami",
+			"link": "https://youtu.be/NnbRqTWKZSg?si=wGs1D3WWGKhc1h2I",
+			"hz": "CBF",
+      "percent": 100
+		}
+    ]
+}
